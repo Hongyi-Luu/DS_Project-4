@@ -32,9 +32,13 @@ The documents "DIAS Information Levels - Attributes 2017.xlsx" and "DIAS Attribu
 
 Due to data privacy concerns, the author was not permitted to share the data provided by Arvato Financial Services.
 
-## Results<a name="results"></a>
+## Summary of Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@hongyiluu/bertelsmann-arvato-customer-segmentation-2ce2347637e4).
+The customer segmentation analysis divided the population into 16 clusters, with some clusters being more or less likely to be in the customer base. 
+
+In the supervised learning predictive analysis, a Random Forest model was adopted, achieving a Recall Score of 91%. The model predicted 1,035 out of 42,833 individuals as potential responders to the mail-order campaign. 
+
+The detailed analysis can be found at the post available [here](https://medium.com/@hongyiluu/bertelsmann-arvato-customer-segmentation-2ce2347637e4). 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
